@@ -1,0 +1,8 @@
+name: mypy36
+
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - jupyter
+  - jupyterlab
